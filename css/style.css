@@ -1,0 +1,150 @@
+/* html element */
+h1 h2 h3 h4 h5 h6{
+    font-family: 'Montserrat-Bold', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.center{
+    text-align: center;
+}
+
+
+/* navbar */
+.navigationbar{
+    background-color: #3A4F7A;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-left: 2%;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: black;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+
+
+
+/* title */
+
+.Main-header{
+    background-color: #FFC6D3;
+    padding: 4% 0;
+}
+
+
+.title-desc{
+    text-align: left;
+    padding: 5% 2% 0;
+    background: rgb(255,198,211);
+    background: linear-gradient(74deg, rgba(255,198,211,1) 46%, rgba(233,142,173,1) 100%);
+}
+
+.list{
+    background-color: #FEA1BF;  
+    padding: 2% 5%;
+}
+
+.title-img{
+    width: 45%;
+    margin: 0 0 0 150px;
+    padding-bottom: 5%;
+}
+
+
+/* galeria */
+#galeria{
+    background-color: #E98EAD;
+}
+
+#galeria img{
+    width: 50%;
+    margin: 2% 2% 4%;
+}
+
+
+/* testimonials */
+#testimonial{
+    background-color: #FFC6D3;
+    padding: 2% 2%;
+}
+
+.comentario{
+    margin: 4% 0 2%;
+}
+
+.carousel-item{
+    margin: 2% 0 0;
+}
+
+/* intro */
+.quien{
+    background-color: #E98EAD; 
+}
+
+#intro{
+    margin:0 20%;
+    padding: 4% 0;
+}
+
+.introduction{
+    padding: 2% 0;
+    margin: 3% 5%;
+    background: rgb(233,142,173);
+    background: radial-gradient(circle, rgba(233,142,173,1) 46%, rgba(190,61,105,1) 100%);
+}
+
+/* ubicaion */
+.map-frame{
+    background-color: #FFC6D3;
+}
+
+.map{
+    width: 50%;
+}
+
+/* Horarion */
+#horario{
+    background-color: #E98EAD;
+}
+
+/* footer */
+.social-icon{
+    color: black;
+    margin: 1rem 10px;
+}
+
+.social-icon:hover{
+    color: white;
+}
+
+.copyright{
+    margin-top: 1rem;
+}
+
+
+/* overall */
+.padder{
+    padding: 2%;
+}
